@@ -1,13 +1,13 @@
 <div align="center">
 
-![PearlOS Logo](docs/screenshots/Pearllogo.png)
+<img src="docs/screenshots/Pearllogo.png" width="400" alt="PearlOS">
 
 **Your Self-Evolving Intelligent OS Companion**
 
 *Pearl is always thinking. Always learning. Always here to help you.*
 
 [![License: PSAL-NC](https://img.shields.io/badge/License-PSAL--NC-purple.svg)](./LICENSE)
-[![Discord](https://img.shields.io/discord/placeholder?label=🌌%20PEARL%20VILLAGE&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/gcba4gb6kz)
+[![Discord](https://img.shields.io/badge/🌌_PEARL_VILLAGE-Join_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gcba4gb6kz)
 
 </div>
 

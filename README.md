@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/screenshots/Pearllogo.png" width="400" alt="PearlOS">
+![PearlOS Logo](docs/screenshots/Pearllogo.png)
 
 **Your Self-Evolving Intelligent OS Companion**
 
